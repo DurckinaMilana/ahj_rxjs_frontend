@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cy8klajhu597o4ad?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/ahj-rxjs-frontend)
